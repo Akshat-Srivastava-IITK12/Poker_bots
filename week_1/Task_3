@@ -8,5 +8,7 @@ Case 1 : Takes only 1
   After P1 - 1 0
   After P2 - 0 0 (Wins)
 Case 2 : Takes 2, one from each pile
-After P1 - 1 1
-After P2 - 0 0 (Wins), keeps both in even
+  After P1 - 1 1
+  After P2 - 0 0 (Wins), keeps both in even
+Thus, as long as it can be brought to 2 2 scenario, P2 wins
+In order to get this final scenario, P2 must always keep both the piles in even even format.
