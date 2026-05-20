@@ -1,1 +1,12 @@
-In the game 
+In this game, the winning strategy is to keep the number of rocks in both the piles as an even number.
+The player that goes second will always win if he follows the above strategy
+Imagine the final situation of Pile A - 2, Pile B - 2
+At this situation, regardless of what the next to play player plays, the second to go player will win, let's play out all scenarios : 
+Case 1 : Takes only 1
+  After P1 - 2 1
+  After P2 - 2 0 (Try to make even)
+  After P1 - 1 0
+  After P2 - 0 0 (Wins)
+Case 2 : Takes 2, one from each pile
+After P1 - 1 1
+After P2 - 0 0 (Wins), keeps both in even
