@@ -1,0 +1,23 @@
+Problem 2A :
+We have order as :
+1. The good is provided, and they did not contribute (Free-riding).
+2. The good is provided, and they did contribute.
+3. The good is not provided, and they did not contribute.
+4. The good is not provided, and they did contribute (Wasted capital).
+Case 1 : There is more than k donors
+If there is more than k donors, say m, then if one decides not to contribute, m-1 > k still contribute, and not contributing and good is provided is higher 
+than did contribute and good is provided, so here all would decide not to contribute, implying it has no Nash Equilibria.
+For anyone who was already not donating, they will continue not donating, but it doesn't matter as there have already been people that will switch.
+So No Nash Equilibrium.
+
+Case 2 : Equal to k donors 
+Here, if a person who is donating chooses to stop, then the good is not provided, which is a worse outcome than good provided and money donated, so the people already
+donating, will continue to do so.
+If someone is not donating, they will continue not donating as not donating and good provided is best outcome. So, we can conclude that this is a Nash Equilibrium.
+Thus any combination where exactly k donate should be a Nash Equilibrium
+
+Case 3 : Less than k donors
+Here also, like first case, anyone who is donating will switch to not donating as the good is not provided either way.
+Again, No Nash Equilirium.
+
+Problem 2B :
