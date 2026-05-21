@@ -18,6 +18,7 @@ Thus any combination where exactly k donate should be a Nash Equilibrium
 
 Case 3 : Less than k donors
 Here also, like first case, anyone who is donating will switch to not donating as the good is not provided either way.
-Again, No Nash Equilirium.
+Again, No Nash Equilibrium, unless, to begin with, no one was contributing.
+If no one was contributing to begin with, then it is a Nash Equilibrium because no one will switch to donating from not donating.
 
 Problem 2B :
