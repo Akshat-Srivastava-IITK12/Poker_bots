@@ -22,3 +22,18 @@ Again, No Nash Equilibrium, unless, to begin with, no one was contributing.
 If no one was contributing to begin with, then it is a Nash Equilibrium because no one will switch to donating from not donating.
 
 Problem 2B :
+1.
+Under this case, any one going for and attaining the stag is better off than going for hare.
+Case 1 : More than or equal to m hunters contribute
+Here, for any hunter going for stag, the payoff is better and hence they will continue helping capture the stag.
+But, anyone going for the hare will switch to stag, as it is better payoff. 
+Thus, no Nash Equilibrium.
+There is a special case, if all the hunters choose Stag, then it is a Nash Equilibrium
+
+Case 2 : Less than m contribute
+Here, those that are going for Hare continue to do so, but those going Stag will change to Hare, so no Nash Equilibrium.
+
+
+
+
+
