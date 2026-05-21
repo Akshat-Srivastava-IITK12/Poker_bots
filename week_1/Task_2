@@ -33,6 +33,24 @@ There is a special case, if all the hunters choose Stag, then it is a Nash Equil
 Case 2 : Less than m contribute
 Here, those that are going for Hare continue to do so, but those going Stag will change to Hare, so no Nash Equilibrium.
 
+2. Updated Game
+Case 1 : More than k hunters choose Stag
+In this case, they get a share that is less than 1/k, so they will choose to switch to Hare rather than Stag
+No Nash Equilibrium.
+If there is exactly k, then those choosing Stag continue to do so, but anyone choosing Hare will not switch,
+Thus, it is Nash Equilibrium if exactly k choose Stag.
+
+Case 2 : Less than k but more than m hunters choose Stag
+Hunters choosing Stag remain but hunters choosing Hare switch to Stag.
+No Nash Equilibrium.
+At exactly m hunters with Stag, the same holds.
+
+Case 3 : Less than m hunters choose Stag
+Anyone choosing Stag will pivot to Hare. No Nash Equilibrum.
+Special case here is if no hunters choose Stag. Then, it is a Nash Equilibrium.
+
+
+
 
 
 
