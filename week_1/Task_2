@@ -47,7 +47,8 @@ At exactly m hunters with Stag, the same holds.
 
 Case 3 : Less than m hunters choose Stag
 Anyone choosing Stag will pivot to Hare. No Nash Equilibrum.
-Special case here is if no hunters choose Stag. Then, it is a Nash Equilibrium.
+Special case here is if no hunters choose Stag. Then, all hunters will not switch from Hare to Stag.
+It is a Nash Equilibrium.
 
 
 
